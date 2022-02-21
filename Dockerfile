@@ -1,4 +1,4 @@
-FROM ubi8/php-74
+FROM registry.access.redhat.com/ubi8/php-74
 
 ENV VERSION=2.4.3
 
